@@ -11,7 +11,7 @@ Projeto de exemplo utilizando Node.js e SQLite para manipulação de banco de da
 1. Clone este repositório:
    ```sh
    git clone https://github.com/diegowsoft/curso-banco-de-dados.git
-   cd curso-sql-hashtag
+   cd curso-banco-de-dados
    ```
 
 2. Instale as dependências:
