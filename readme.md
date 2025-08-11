@@ -10,7 +10,7 @@ Projeto de exemplo utilizando Node.js e SQLite para manipulação de banco de da
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/curso-sql-hashtag.git
+   git clone https://github.com/diegowsoft/curso-banco-de-dados.git
    cd curso-sql-hashtag
    ```
 
